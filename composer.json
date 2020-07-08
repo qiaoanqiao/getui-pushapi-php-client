@@ -1,6 +1,6 @@
 {
-    "name": "getuilaboratory/getui-pushapi-php-client",
-    "description": "getui php client",
+    "name": "murry/getui-pushapi-php-client-psr4",
+    "description": "getui php client getuipsr4",
     "keywords": ["getui", "getuilaboratory", "getui-pushapi-php-client", "pushapi"],
     "homepage": "https://www.getui.com/cn/",
     "license": "MIT",
