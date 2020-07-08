@@ -11,6 +11,8 @@
         }
     ],
     "autoload": {
-        "classmap": [""]
+        "psr-4": {
+            "Gt\\Client\\": "./src/"
+        }
     }
 }
